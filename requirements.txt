@@ -1,0 +1,7 @@
+flask
+opencv-python
+tensorflow
+librosa
+sounddevice
+numpy
+.\emotion_env\Scripts\Activate
